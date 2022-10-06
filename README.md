@@ -49,11 +49,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ~~~
-Developed By : Shyam Kumar A
-Reg No :212221230098
+Developed By : Vishal Gowthaman K R
+Reg No :212221230123
 ~~~
 ~~~
-import humpy as np
+import numpy as np
 L=[int (i) for i in input () .split ()]
 N=1en (L) ; M=max (L)
 x=list ();f=list ()
